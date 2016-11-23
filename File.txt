@@ -1,1 +1,1 @@
-Editing on the remote master.
+Merged the file on the Local repo.
