@@ -1,2 +1,2 @@
 Merged the file on the Local repo.
-Edited the file on the Remote Master.
+Merged the file on Local repo again.
